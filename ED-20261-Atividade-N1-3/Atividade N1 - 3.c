@@ -1,3 +1,13 @@
+/*----------------------------------------------------------------------------------*/
+/*FATEC-Ipiranga                                                                    */        
+/*ADS - Estrutura de Dados                                                          */
+/*Id da Atividade: N1-3                                                             */
+/*Objetivo: Simulador de Calculadora HP12c (Pilha RPN)                              */
+/*                                                                                  */
+/*Autor: Carolina Gusmão de França                                                           */
+/*Data: 04/04/2026                                                                   */
+/*----------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
