@@ -17,7 +17,7 @@ void inverterNumero(int n){
     }
     while (n > 0){
         printf("%d", n % 10); // Imprime o último dígito
-        n = n / 10; // Remove o último dígito do nú
+        n = n / 10; // Remove o último dígito do número
     }
 }
 int main(){
